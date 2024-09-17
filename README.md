@@ -68,9 +68,5 @@ The calculator will output the following data for each year:
 
 2. The calculator will compute and display the investment growth over time, showing you how your capital grows with compounded interest.
 
-## Demo
-
-
-
 ## License
 This project is licensed under the MIT License.
